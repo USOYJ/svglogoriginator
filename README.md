@@ -3,9 +3,7 @@
 # svglogoriginator
 
 ## About Project:
-This application generates logo "logo.svg" file using an inquirer prompt which contains the users desired results as an SVG image. This application also uses Jest for running the unit tests.
-
-
+This is a simple logo generator, it generates logo "logo.svg" file using an inquirer prompt and Jest for running the unit tests which creates the users desired results as an SVG image. 
 ## Solution URL:
 
 
@@ -24,10 +22,10 @@ This application generates logo "logo.svg" file using an inquirer prompt which c
 
 
 ## This Challenge was built with
- JavaScript
- Node.js
- Jest 
- Inquirer.js
+ * JavaScript
+ * Node.js
+ * Jest 
+ * Inquirer.js
 
 
 ## Credits:
